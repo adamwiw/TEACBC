@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=reader
+comment0.target=void\ decrypt(java.io.BufferedReader)
+comment1.params=reader
+comment1.target=void\ encrypt(java.io.BufferedReader)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

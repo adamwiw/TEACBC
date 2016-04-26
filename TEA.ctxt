@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=KEY
+comment0.target=TEA(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TEA\n
+comment1.params=plainText
+comment1.target=int[]\ teaEncrypt(int[])
+comment2.params=cipherText
+comment2.target=int[]\ teaDecrypt(int[])
+numComments=3

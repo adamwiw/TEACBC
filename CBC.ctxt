@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=KEY\ init
+comment0.target=CBC(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CBC\n
+comment1.params=plainText
+comment1.target=int[][]\ encrypt(java.lang.String)
+comment1.text=\n\ Encrypt\ the\ text\ using\ CBC\n
+comment2.params=c
+comment2.target=java.lang.String\ decrypt(int[][])
+comment2.text=\n\ Decrypt\ the\ cipher\ with\ CBC\n
+comment3.params=bytes
+comment3.target=int\ byteint(java.lang.String)
+comment3.text=\n\ Convert\ a\ stream\ of\ bytes(ASCII)\ into\ an\ integer\n
+comment4.params=num
+comment4.target=java.lang.String\ intbyte(int)
+comment4.text=\n\ Convert\ an\ integer\ into\ a\ stream\ of\ bytes\n
+numComments=5
