@@ -10,3 +10,4 @@ VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+[cost for application development](https://1artifactware.com/blog/article/cost-for-application-development)
